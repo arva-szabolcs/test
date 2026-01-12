@@ -1,6 +1,6 @@
 Drivers/
 .settings
-.mxprojet
+.mxproject
 *.cfg
-*.Id
+*.ld
 *.launch
