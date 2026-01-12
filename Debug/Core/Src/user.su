@@ -1,0 +1,4 @@
+../Core/Src/user.c:21:6:append_msg	24	static
+../Core/Src/user.c:33:6:separate_msg	16	static
+../Core/Src/user.c:47:6:end_msg	16	static
+../Core/Src/user.c:60:6:process_msg	16	static
